@@ -1,10 +1,10 @@
 {
     "name": "Modmail",
     "description": "An easy to install Modmail bot for Discord - DM to contact mods!",
-    "repository": "https://github.com/kyb3r/modmail",
+    "repository": "https://github.com/ConquestorTheDev/modmail",
     "env": {
         "TOKEN": {
-            "description": "Your discord bot's token.",
+            "description": "Nzc1MTk3MTg1Nzg0MDIxMDEz.X6i0ow.qkxHixJQes9ETGuyQ5a3WJaukmU",
             "required": true
         },
         "GUILD_ID": {
